@@ -3,7 +3,7 @@
 
 <a href="https://twitter.com/TheAnmol_"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
 <a href="https://www.linkedin.com/in/anmol-lakhera-637a151a9/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
-<a href="mailto:anmollakhera019@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
+<a href="https://contacts.google.com/u/1/person/112995909488051063208?hl=en"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 
 <a href="https://www.facebook.com/anmol.lakhera.71/"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"></a>
 <a href="https://t.me/Bbrewerr"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a>
