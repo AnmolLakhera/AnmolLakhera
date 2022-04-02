@@ -1,13 +1,13 @@
 ### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-<a href="https://twitter.com/Vaishnvi_"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
-<a href="https://www.linkedin.com/in/vaishnavi-lakhera-925305174/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
+<a href="https://twitter.com/TheAnmol_"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/anmol-lakhera-637a151a9/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
 <a href="mailto:anmollakhera019@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 
-<a href="https://www.facebook.com/vaishnavi.l.92"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"></a>
-<a href="https://t.me/Vaishnavi_Lakhera"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a>
-<a href="https://www.instagram.com/vaishnavi_lakhera_786/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
+<a href="https://www.facebook.com/anmol.lakhera.71/"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"></a>
+<a href="https://t.me/Bbrewerr"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a>
+<a href="https://www.instagram.com/anmol.lakhera.71/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
 <br>
 
 ### My Blog: 
@@ -21,11 +21,11 @@
 #### 🤔 Who Am I!?
 
 - 🏫 I am a Senior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2022].
-- ⚡️ My expertise primarily revolves around Python, MYSQL, Data Analytics, Django, Tableau, Power BI and a bit about ML.
+- ⚡️ My expertise primarily revolves around Python, MYSQL and a bit about ML.
 - ♥️ I Like to write the logic which make your application work .
 - -🐱‍🏍  Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.
 
-> 🐱‍💻 Not very active in Competitive Programming , but if I get time or feeling, I do :)
+> 🐱‍💻 Active in Competitive Programming ;)
 
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
