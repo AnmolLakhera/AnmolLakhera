@@ -20,7 +20,7 @@
 
 #### 🤔 Who Am I!?
 
-- 🏫 I am a Senior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2022].
+- 🏫 I am a Senior pursuing a Bachelor’s degree in Computer Sciences Specialisation in Artificial Intelligence and Machine Learning from the Gyan Ganga Institute of Technology and Science, Jabalpur (M.P.) [2022].
 - ⚡️ My expertise primarily revolves around Python, MYSQL and a bit about ML.
 - ♥️ I Like to write the logic which make your application work .
 - -🐱‍🏍  Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.
