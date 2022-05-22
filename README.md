@@ -56,8 +56,8 @@
 <a href="https://github.com/AnmolLakhera?tab=followers">
     <img src="https://img.shields.io/github/followers/AnmolLakhera?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://twitter.com/Vaishnvi_">
-    <img src="https://img.shields.io/twitter/follow/Anmol_?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="https://twitter.com/TheAnmol_">
+    <img src="https://img.shields.io/twitter/follow/TheAnmol_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
     
  </p>
