@@ -1,13 +1,13 @@
 ### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-<a href="https://twitter.com/TheAnmol_"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
-<a href="https://www.linkedin.com/in/anmol-lakhera-637a151a9/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
-<a href="https://contacts.google.com/u/1/person/112995909488051063208?hl=en"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
+<a href="https://twitter.com/TheAnmol_"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/anmol-lakhera-637a151a9/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" width="30" height="30"></a>
+<a href="https://contacts.google.com/u/1/person/112995909488051063208?hl=en"><img src="https://cdn-icons-png.flaticon.com/512/1077/1077012.png" width="30" height="30"></a>
 
-<a href="https://www.facebook.com/anmol.lakhera.71/"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"></a>
-<a href="https://t.me/Bbrewerr"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a>
-<a href="https://www.instagram.com/anmol.lakhera.71/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
+<a href="https://www.facebook.com/anmol.lakhera.71/"><img src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128304.png?token=exp=1653239281~hmac=b73b0b7c95a4e4f97c7ce3a729e0a2f8" width="30" height="30"></a>
+<a href="https://t.me/Bbrewerr"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="30" height="30"></a>
+<a href="https://www.instagram.com/anmol.lakhera.71/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30" height="30" /></a>
 <br>
 
 ### My Blog: 
