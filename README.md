@@ -20,25 +20,23 @@
 
 #### 🤔 Who Am I!?
 
-- 🏫 I am a Senior pursuing a Bachelor’s degree in Computer Sciences Specialisation in Artificial Intelligence and Machine Learning from the Gyan Ganga Institute of            Technology and Science, Jabalpur (M.P.) [2022].
-- ⚡️ My expertise primarily revolves around Python, MYSQL and a bit about ML.
-- ♥️ I Like to write the logic which make your application work .
-- -🐱‍🏍  Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.
+- 🏫 I am a Senior pursuing a Bachelor’s degree in Computer Sciences Specialisation in Artificial Intelligence and Machine           Learning from Gyan Ganga Institute of Technology and Science, Jabalpur (M.P.). (2025)
+- ⚡️ My expertise primarily revolves around Python, MYSQL, C++ and a bit about ML.
+- 🐱‍🏍 I like to write the logic which makes your program work.
 
 > 🐱‍💻 Active in Competitive Programming ;)
 
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;&nbsp;<img height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">&nbsp;&nbsp;<img height="24"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" >&nbsp;&nbsp;<img height="24"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" >&nbsp;&nbsp;
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;&nbsp;
 
 
 #### 👨🏻‍💻 Familiar With :
 
 
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;&nbsp; 
 
 <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviLakhera&theme=onedark&column=3&margin-w=15&margin-h=15">
 
